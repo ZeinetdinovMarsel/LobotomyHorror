@@ -20,6 +20,6 @@ MonoBehaviour:
     \u043A\u0430\u043A \u043D\u0443... \u043D\u0435 \u043C\u043E\u0433\u0443.. \u043C\u043D\u0435
     \u043F\u043B\u043E\u0445\u043E"
   answers: []
-  speakerName: "\u041B\u044E\u043B\u044C\u043A\u0430 \u043B\u044F\u0431\u0443\u043B\u044C\u043A\u0430"
+  speakerName: "\u0411\u0443\u043B\u044C\u043A\u0430 \u0411\u0430\u0440\u0430\u0431\u0443\u043B\u044C\u043A\u0430"
   nextNodes:
   - {fileID: 11400000, guid: ca635201d9fb99c409447a602910b47b, type: 2}

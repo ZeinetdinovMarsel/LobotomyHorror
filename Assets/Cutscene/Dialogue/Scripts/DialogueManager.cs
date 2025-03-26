@@ -14,8 +14,6 @@ public class DialogueManager : MonoBehaviour
 
     [SerializeField] private List<Button> _answerButtons;
 
-    private bool _waitingForAnswer = false;
-
     [SerializeField] private PlayableDirector _cutscene;
 
     private DialogueNode _currentNode;
